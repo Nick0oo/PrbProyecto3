@@ -5,7 +5,7 @@ const authModule = {
     token: null
   },
 
-  // Login function
+  // Login function v1.0
   login: function(username, password) {
     // Simulate authentication
     if (username && password) {
